@@ -1,0 +1,65 @@
+/* :::::::::::::::::::::
+
+::::    ::::         ::::    ::::
+::::    ::::         ::::  :::: 
+::::::::::::         :::::::
+::::::::::::         ::::::: 
+::::    ::::   :::   ::::  :::: 
+::::    ::::   :::   ::::     ::::  
+
+::::::::::::::::::::::::*/
+
+*{
+    background-color: black;
+}
+
+
+header{
+   text-align: center;
+   color: #ffffff; 
+background-color: rgb(38, 25, 112);
+padding: 10px;
+padding-bottom:3px;
+padding-top:3px;
+
+}
+header h1{
+    background:rgb(38, 25, 112);
+}
+.lead{
+    text-align: center;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 10px;
+}
+h2{
+    text-align: center;
+    padding: 0 0 20px 0;
+    color: #ffffff;
+    font-size: 50px;
+}
+.jumpbotron{
+    text-align: center;
+    color: #ffffff;
+}
+.mt-3{
+    color: #ffffff;
+}
+h3{
+    text-align: center;
+    color: #ffffff;
+    float: initial;
+}
+#message{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 20px;
+}
+input{
+    text-align: center;
+    color:black;
+    font-size: 50px;
+    background:#fff;
+}
